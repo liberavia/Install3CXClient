@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # 
 # Copyleft 2018 André Gregor-Herrmann <andre.gregor.herrmann@gmail.com> 
 #
