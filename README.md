@@ -20,7 +20,6 @@ sudo apt install wine-stable zenity cabextract winbind
 
 - Download latest release and extract it
 - Start a terminal and navigate to extracted folder
-- Make script executable ```chmod 755 ./Install3CXClient.sh```
-- Execute installer ```./Install3CXClient.sh```
+- Execute installer ```bash ./Install3CXClient.sh```
 
 Follow the instructions on the screen. 
